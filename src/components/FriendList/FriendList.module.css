@@ -1,0 +1,16 @@
+.listFriends {
+    display: flex;
+    gap: 15px;
+}
+
+.itemList {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    border-radius: 9px;
+    width: 100px;
+    height: 150px;
+    padding: 5px;
+    align-items: center;
+    justify-content: center;
+}

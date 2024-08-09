@@ -1,0 +1,12 @@
+.nameItem {
+    font-size: 30px;
+    color: rgb(5, 5, 5);
+}
+
+.isOnline {
+    color: green;
+}
+
+.isOffline {
+    color: red;
+}

@@ -1,0 +1,52 @@
+.wrapCard {
+    width: 400px;
+    height: 395px;
+    border: 2px solid black;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 15px;
+    margin: 50px auto;
+}
+
+.wrapProfile {
+    padding: 62.5px;
+}
+
+.imgCard {
+    width: 100x;
+    height: 100px;
+    border-radius: 50%;
+    background-color: rgb(45, 43, 43);
+}
+
+.nameCard {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.infoCard {
+    color: rgb(175, 175, 168);
+}
+
+.listStats {
+    display: flex;
+    background-color: rgb(180, 192, 188);
+}
+
+.itemStats {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    width: calc(100% / 3);
+    height: 65px;
+    border: 1px solid rgb(107, 107, 107);
+}
+
+.statsSpan {
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(248, 249, 250);
+}
